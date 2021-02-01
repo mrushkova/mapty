@@ -1,4 +1,4 @@
-# ![Mapty](https://github.com/mrushkova/mapty/blob/master/logo.png) MAPTY
+# ![Mapty](https://github.com/mrushkova/mapty/blob/master/icon.png) MAPTY
 
 Mapty – web application for desktop where you can log your workouts.  
 The application allows to log running or cycling trainings on a map.
@@ -12,5 +12,7 @@ Mapty built using OOP with classes.
 There are a flowchart of the application and a diagram for the architecture.
 
 ![Flowchart](https://github.com/mrushkova/mapty/blob/master/Mapty-flowchart.png)
+
+---
 
 ![Architecture](https://github.com/mrushkova/mapty/blob/master/Mapty-architecture-final.png)
