@@ -1,4 +1,4 @@
-# ![Mapty](https://github.com/mrushkova/mapty/blob/master/icon.png) MAPTY
+# ![Mapty](https://github.com/mrushkova/mapty/blob/master/icon.png)mapty
 
 Mapty – web application for desktop where you can log your workouts.  
 The application allows to log running or cycling trainings on a map.
