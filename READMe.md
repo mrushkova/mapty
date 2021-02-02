@@ -1,6 +1,6 @@
 # ![Mapty](https://github.com/mrushkova/mapty/blob/master/icon.png)mapty
 
-Mapty – ![web application](https://mrushkova.github.io/mapty/) for desktop where you can log your workouts.  
+Mapty – [web application](https://mrushkova.github.io/mapty/) for desktop where you can log your workouts.  
 The application allows to log running or cycling trainings on a map.
 This application uses your geolocation for the map rendering.
 Workout data contains distance, duration and cadence or gained elevation for different workout types.
